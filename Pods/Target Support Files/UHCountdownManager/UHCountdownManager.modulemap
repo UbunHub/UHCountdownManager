@@ -1,0 +1,6 @@
+framework module UHCountdownManager {
+  umbrella header "UHCountdownManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

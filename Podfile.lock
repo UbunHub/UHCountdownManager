@@ -1,0 +1,16 @@
+PODS:
+  - UHCountdownManager (0.0.1)
+
+DEPENDENCIES:
+  - UHCountdownManager (from `UHCountdownManager`)
+
+EXTERNAL SOURCES:
+  UHCountdownManager:
+    :path: UHCountdownManager
+
+SPEC CHECKSUMS:
+  UHCountdownManager: 739156cc3460e6cfd87a55f20062962270789fc3
+
+PODFILE CHECKSUM: dd49563301e0733baa53551177b2d3b5c620a666
+
+COCOAPODS: 1.0.1
